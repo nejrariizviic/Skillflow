@@ -45,9 +45,6 @@ These tests helped refine the overall usability, accessibility, and engagement o
 
 ### 🔍 Future Improvements
 The Skillflow project serves as a foundation for ongoing enhancements, including:
-
--Mobile App Enhancements – Further refinement of the mobile experience to ensure fluid usability.
--User Feedback-Based Refinements – Iterative improvements based on user insights and usability testing.
--Advanced Matching Algorithm – Optimizing job recommendations based on freelancer skills and client needs.
--Integration with Third-Party Tools – Expanding capabilities by connecting with relevant external services.
+- Advanced Matching Algorithm – Optimizing job recommendations based on freelancer skills and client needs.
+- Integration with Third-Party Tools – Expanding capabilities by connecting with relevant external services.
 
