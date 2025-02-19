@@ -19,6 +19,7 @@ The Skillflow platform is built around two primary modules, each designed to opt
 
 - Freelancer Module – This module empowers freelancers by allowing them to create and personalize their professional profiles, showcasing their skills, experiences, and portfolios. Freelancers can easily explore job opportunities posted by clients, filter them according to their preferences and expertise, and apply directly for positions.
 - Client Module – The Client Module is designed for businesses and organizations seeking to hire top talent. It enables clients to post detailed job listings, including role descriptions, requirements, and deadlines. Clients can then review freelancer applications, assess candidates based on their profiles and portfolios, and directly communicate with applicants.
+
 The platform’s adaptability allows freelancers and clients to engage with the system from anywhere, whether they are on the go or at their desks, ensuring a continuous and seamless user experience.
 
 ### 🎨 Design & Development
