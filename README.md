@@ -1,5 +1,16 @@
 # Skillflow
 
+### Table of Contents
+- [🚀 Project Overview](#-project-overview)
+- [🎨 Design & Development](#-design--development)
+- [🛠 Key Features](#-key-features)
+   1. [Freelancer Features](#freelancer-features)
+   2. [Client Features](#client-features)
+- [🧪 Testing & Validation](#-testing--validation)
+- [📂 Project Access](#-project-access)
+- [🔍 Future Improvements](#-future-improvements)
+
+   
 ### 🚀 Project Overview
 Skillflow is a modern, user-centric platform designed to streamline the connection between freelancers and clients. The goal of the platform is to optimize the job search and hiring process, providing an intuitive and efficient experience for both parties.
 The application consists of two key modules:
