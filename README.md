@@ -2,10 +2,11 @@
 
 ### 🚀 Project Overview
 Skillflow is a modern, user-centric platform designed to streamline the connection between freelancers and clients. The goal of the platform is to optimize the job search and hiring process, providing an intuitive and efficient experience for both parties.
-
 The application consists of two key modules:
--Freelancer Module – Enables freelancers to create personalized profiles, explore job opportunities, and submit applications seamlessly.
--Client Module – Allows businesses to post job listings, review applications, and hire top talent effortlessly.
+
+- Freelancer Module – Enables freelancers to create personalized profiles, explore job opportunities, and submit applications seamlessly.
+
+- Client Module – Allows businesses to post job listings, review applications, and hire top talent effortlessly.
 Skillflow has been designed with a responsive and scalable approach, ensuring a seamless experience across both web and mobile applications.
 
 ### 🎨 Design & Development
