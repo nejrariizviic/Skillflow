@@ -1,14 +1,14 @@
 # Skillflow
 
-### Table of Contents
-- [🚀 Project Overview](#-project-overview)
-- [🎨 Design & Development](#-design--development)
-- [🛠 Key Features](#-key-features)
-   1. [Freelancer Features](#freelancer-features)
-   2. [Client Features](#client-features)
-- [🧪 Testing & Validation](#-testing--validation)
-- [📂 Project Access](#-project-access)
-- [🔍 Future Improvements](#-future-improvements)
+## Table of Contents
+1. [🚀 Project Overview](#-project-overview)
+2. [🎨 Design & Development](#-design--development)
+3. [🛠 Key Features](#-key-features)
+   - [Freelancer Features](#freelancer-features)
+   - [Client Features](#client-features)
+4. [🧪 Testing & Validation](#-testing--validation)
+5. [📂 Project Access](#-project-access)
+6. [🔍 Future Improvements](#-future-improvements)
 
    
 ### 🚀 Project Overview
