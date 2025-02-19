@@ -18,9 +18,9 @@ The UI/UX design was meticulously crafted in Figma, following modern design prin
 
 ### 🛠 Key Features
 Freelancer Features:
--Profile creation with portfolio showcase
--Job search and filtering options
--Application and proposal submission
+- Profile creation with portfolio showcase
+- Job search and filtering options
+- Application and proposal submission
 
 
 Client Features:
