@@ -1,22 +1,25 @@
 # Skillflow
 
-## Table of Contents
-1. [🚀 Project Overview](#-project-overview)
-2. [🎨 Design & Development](#-design--development)
-3. [🛠 Key Features](#-key-features)
+Skillflow is a modern, user-centric platform designed to streamline the connection between freelancers and clients. The goal of the platform is to optimize the job search and hiring process, providing an intuitive and efficient experience for both parties.
+
+
+### Table of Contents
+- [🚀 Project Overview](#-project-overview)
+- [🎨 Design & Development](#-design--development)
+- [🛠 Key Features](#-key-features)
    - [Freelancer Features](#freelancer-features)
    - [Client Features](#client-features)
-4. [🧪 Testing & Validation](#-testing--validation)
-5. [📂 Project Access](#-project-access)
-6. [🔍 Future Improvements](#-future-improvements)
+- [🧪 Testing & Validation](#-testing--validation)
+- [📂 Project Access](#-project-access)
+- [🔍 Future Improvements](#-future-improvements)
 
    
 ### 🚀 Project Overview
-Skillflow is a modern, user-centric platform designed to streamline the connection between freelancers and clients. The goal of the platform is to optimize the job search and hiring process, providing an intuitive and efficient experience for both parties.
-The application consists of two key modules:
-- Freelancer Module – Enables freelancers to create personalized profiles, explore job opportunities, and submit applications seamlessly.
-- Client Module – Allows businesses to post job listings, review applications, and hire top talent effortlessly.
-Skillflow has been designed with a responsive and scalable approach, ensuring a seamless experience across both web and mobile applications.
+The Skillflow platform is built around two primary modules, each designed to optimize the workflow for both freelancers and clients:
+
+- Freelancer Module – This module empowers freelancers by allowing them to create and personalize their professional profiles, showcasing their skills, experiences, and portfolios. Freelancers can easily explore job opportunities posted by clients, filter them according to their preferences and expertise, and apply directly for positions.
+- Client Module – The Client Module is designed for businesses and organizations seeking to hire top talent. It enables clients to post detailed job listings, including role descriptions, requirements, and deadlines. Clients can then review freelancer applications, assess candidates based on their profiles and portfolios, and directly communicate with applicants.
+The platform’s adaptability allows freelancers and clients to engage with the system from anywhere, whether they are on the go or at their desks, ensuring a continuous and seamless user experience.
 
 ### 🎨 Design & Development
 The UI/UX design was meticulously crafted in Figma, following modern design principles to enhance usability, accessibility, and engagement. The platform prioritizes:
