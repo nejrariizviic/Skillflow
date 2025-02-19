@@ -32,10 +32,9 @@ Client Features:
 ### 🧪 Testing & Validation
 To ensure a high-quality user experience, multiple rounds of usability testing were conducted:
 
-- Prototype Testing – Interactive Figma prototype was tested with freelancers and clients to identify usability issues.
-- A/B Testing – Different interface layouts and features were tested to determine the most effective design choices.
-- User Feedback Sessions – Iterative improvements were made based on real user interactions and feedback.
-- Accessibility Testing – Ensuring WCAG compliance for a more inclusive experience.
+- Prototype Testing 
+- User Feedback Sessions
+- Accessibility Testing
 
 These tests helped refine the overall usability, accessibility, and engagement of the platform.
 
