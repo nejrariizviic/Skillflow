@@ -40,7 +40,7 @@ These tests helped refine the overall usability, accessibility, and engagement o
 
 
 ### 📂 Project Access
-🔗 Figma Prototype Link: [Insert Figma Link Here]
+🔗 Figma Prototype Link: https://www.figma.com/design/y8N4sbkyAzS0g3cHJYOabg/Skillflow?node-id=8-529&t=pCg1nrv0WYdYsk5H-1 
 
 
 ### 🔍 Future Improvements
