@@ -38,7 +38,7 @@ The UI/UX design was meticulously crafted in Figma, following modern design prin
 - Consistency Across Platforms – optimized for both desktop and mobile use.
 
 
-## Research and Methodology
+## Research & Methodology
 The Skillflow platform follows a structured research and development methodology to ensure it meets the needs of both freelancers and clients. The process includes the following key steps:
 
 - Analysis of User Roles and Tasks
