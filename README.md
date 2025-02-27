@@ -15,7 +15,7 @@ Skillflow is a modern, user-centric platform designed to streamline the connecti
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Design & Development](#design--development)
-- [Research and Methodology](#research-and-methodology)
+- [Research & Methodology](#research--methodology)
 - [Key Features](#key-features)
 - [Testing & Validation](#testing--validation)
 - [Project Access](#project-access)
