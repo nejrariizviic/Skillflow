@@ -15,7 +15,7 @@ Skillflow is a modern, user-centric platform designed to streamline the connecti
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Design & Development](#design--development)
-- [Research and Methodology for Skillflow Project](#research-and-methodology-for-skillflow-project)
+- [Research and Methodology](#research-and-methodology)
 - [Key Features](#key-features)
 - [Testing & Validation](#testing--validation)
 - [Project Access](#project-access)
@@ -38,7 +38,7 @@ The UI/UX design was meticulously crafted in Figma, following modern design prin
 - Consistency Across Platforms – optimized for both desktop and mobile use.
 
 
-## Research and Methodology for Skillflow Project
+## Research and Methodology
 The Skillflow platform follows a structured research and development methodology to ensure it meets the needs of both freelancers and clients. The process includes the following key steps:
 
 - Analysis of User Roles and Tasks
