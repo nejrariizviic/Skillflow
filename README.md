@@ -62,7 +62,17 @@ These tests helped refine the overall usability, accessibility, and engagement o
 
 
 ##  Project Access
+The Skillflow project design is available on Figma, which can be accessed directly via a web browser without the need for downloads or additional software. Simply click on the link, and the project will open, allowing you to explore its structure and components.
+
 🔗 [Figma Prototype Link](https://www.figma.com/design/y8N4sbkyAzS0g3cHJYOabg/Skillflow?node-id=8-529&t=pCg1nrv0WYdYsk5H-1)
+
+Inside the Figma file, you can navigate through three key pages:
+
+- Component Library – s collection of UI assets, including fonts, color palettes, logos, and reusable components used throughout the platform.
+- Mobile App Preview 
+- Web App Preview 
+  
+This structure ensures a clear understanding of the platform’s design system and functionality.
 
 
 ##  Future Improvements
