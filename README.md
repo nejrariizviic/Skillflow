@@ -41,12 +41,12 @@ The UI/UX design was meticulously crafted in Figma, following modern design prin
 ## Research & Methodology
 The Skillflow platform follows a structured research and development methodology to ensure it meets the needs of both freelancers and clients. The process includes the following key steps:
 
-- Analysis of User Roles and Tasks
-- Business Process Analysis to Identify Inefficiencies
-- Market Research and Comparative Analysis of Similar Platforms
-- Defining Functional Requirements Based on User Feedback
-- UI/UX Design and Prototyping in Figma
-- Testing and Validation
+- Analysis of user roles and tasks
+- Business process analysis to identify inefficiencies
+- Market research and comparative analysis of similar platforms
+- Defining functional requirements based on user feedback
+- UI/UX design and prototyping in Figma
+- Testing and validation
 
 
 ##  Key Features
