@@ -36,6 +36,18 @@ The UI/UX design was meticulously crafted in Figma, following modern design prin
 - User-Centric Experience – designed based on user research to align with freelancer and client needs.
 - Consistency Across Platforms – optimized for both desktop and mobile use.
 
+
+## Research and Methodology for Skillflow Project
+The Skillflow platform follows a structured research and development methodology to ensure it meets the needs of both freelancers and clients. The process includes the following key steps:
+
+- Analysis of User Roles and Tasks
+- Business Process Analysis to Identify Inefficiencies
+- Market Research and Comparative Analysis of Similar Platforms
+- Defining Functional Requirements Based on User Feedback
+- UI/UX Design and Prototyping in Figma
+- Testing and Validation
+
+
 ##  Key Features
 Freelancer Features:
 - Profile creation with portfolio showcase
@@ -53,7 +65,7 @@ Client Features:
 To ensure a high-quality user experience, multiple rounds of usability testing were conducted:
 
 - Prototype Testing 
-- User Feedback Sessions
+- Interaction & Consistency Review
 - Accessibility Testing
 
 These tests helped refine the overall usability, accessibility, and engagement of the platform.
