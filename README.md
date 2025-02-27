@@ -26,17 +26,17 @@ Skillflow is a modern, user-centric platform designed to streamline the connecti
 ##  Project Overview
 The Skillflow platform is built around two primary modules, each designed to optimize the workflow for both freelancers and clients:
 
-- Freelancer Module – This module empowers freelancers by allowing them to create and personalize their professional profiles, showcasing their skills, experiences, and portfolios. Freelancers can easily explore job opportunities posted by clients, filter them according to their preferences and expertise, and apply directly for positions.
-- Client Module – This module is designed for businesses and organizations seeking to hire top talent. It enables clients to post detailed job listings, including role descriptions, requirements, and deadlines. Clients can then review freelancer applications, assess candidates based on their profiles and portfolios, and directly communicate with applicants.
+- Freelancer Module – this module empowers freelancers by allowing them to create and personalize their professional profiles, showcasing their skills, experiences, and portfolios. Freelancers can easily explore job opportunities posted by clients, filter them according to their preferences and expertise, and apply directly for positions.
+- Client Module – this module is designed for businesses and organizations seeking to hire top talent. It enables clients to post detailed job listings, including role descriptions, requirements, and deadlines. Clients can then review freelancer applications, assess candidates based on their profiles and portfolios, and directly communicate with applicants.
 
 The platform’s adaptability allows freelancers and clients to engage with the system from anywhere, whether they are on the go or at their desks, ensuring a continuous and seamless user experience.
 
 ##  Design & Development
 The UI/UX design was meticulously crafted in Figma, following modern design principles to enhance usability, accessibility, and engagement. The platform prioritizes:
 
-- Intuitive Navigation – A streamlined interface for effortless browsing and interaction.
-- User-Centric Experience – Designed based on user research to align with freelancer and client needs.
-- Consistency Across Platforms – Optimized for both desktop and mobile use.
+- Intuitive Navigation – a streamlined interface for effortless browsing and interaction.
+- User-Centric Experience – designed based on user research to align with freelancer and client needs.
+- Consistency Across Platforms – optimized for both desktop and mobile use.
 
 ##  Key Features
 Freelancer Features:
@@ -67,6 +67,6 @@ These tests helped refine the overall usability, accessibility, and engagement o
 
 ##  Future Improvements
 The Skillflow project serves as a foundation for ongoing enhancements, including:
-- Advanced Matching Algorithm – Optimizing job recommendations based on freelancer skills and client needs.
-- Integration with Third-Party Tools – Expanding capabilities by connecting with relevant external services.
+- Advanced Matching Algorithm – optimizing job recommendations based on freelancer skills and client needs.
+- Integration with Third-Party Tools – expanding capabilities by connecting with relevant external services.
 
