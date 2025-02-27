@@ -9,7 +9,7 @@ Skillflow is a modern, user-centric platform designed to streamline the connecti
 
 
 ### Client - Review freelancer applications
-![Client](https://raw.githubusercontent.com/nejrariizviic/Skillflow/refs/heads/main/Uploads/mobile-client.png)
+![Client](https://raw.githubusercontent.com/nejrariizviic/Skillflow/refs/heads/main/Uploads/client.png)
 
 
 ### Table of Contents
