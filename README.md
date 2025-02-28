@@ -65,9 +65,9 @@ Client Features:
 ## Testing & Validation
 To ensure a high-quality user experience, multiple rounds of usability testing were conducted:
 
-- Prototype Testing 
-- Interaction & Consistency Review
-- Accessibility Testing
+- Prototype testing 
+- Interaction and consistency review
+- Accessibility testing
 
 These tests helped refine the overall usability, accessibility, and engagement of the platform.
 
