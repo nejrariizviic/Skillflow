@@ -50,6 +50,15 @@ The Skillflow platform follows a structured research and development methodology
 
 
 ##  Key Features
+Shared System Features:
+- User Profile Management – updating data, prof
+- Authentication and Authorization – secure
+- Password Recovery and Change – options for resetting and modifying the password
+- Notifications – notification system for important events
+- Help Center – knowledge base and user sup
+- Messenger – built-in direct communic
+
+  
 Freelancer Features:
 - Profile creation with portfolio showcase
 - Job search and filtering options
