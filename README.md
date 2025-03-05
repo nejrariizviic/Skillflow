@@ -55,7 +55,8 @@ Shared System Features:
 - Authentication and Authorization 
 - Password Recovery and Change 
 - Notifications 
-- Help Center 
+- Support
+- Settings
 - Chat system
 - Contract review
 
