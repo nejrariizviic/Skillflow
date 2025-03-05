@@ -56,7 +56,8 @@ Shared System Features:
 - Password Recovery and Change 
 - Notifications 
 - Help Center 
-- Messenger 
+- Chat system
+- Contract review
 
   
 Freelancer Features:
