@@ -3,7 +3,6 @@
 Skillflow is a modern, user-centric platform designed to streamline the connection between freelancers and clients. The goal of the platform is to enhance the job search and hiring process, providing an intuitive and efficient experience for both parties. It simplifies job discovery, application management, and hiring decisions, ensuring a smooth and effective workflow. Skillflow bridges the gap between talent and opportunity, making freelance work more accessible and rewarding than ever before.
 
 
-
 ## Freelancer - Job search
 ![Freelancer](https://raw.githubusercontent.com/nejrariizviic/Skillflow/refs/heads/main/Uploads/Search-freelancer.png)
 
